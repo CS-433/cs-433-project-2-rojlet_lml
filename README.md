@@ -15,8 +15,10 @@ Diving into the vast world of NLP, we discovered the different embedding models.
 
 The [BERT model](Notebooks/Bert.ipynb) outperformed all other models with a validation accuracy of 0.8845 and an Accurcy of 0.883 and F1-Score of 0.883 on [AiCrowd](https://www.aicrowd.com/challenges/epfl-ml-text-classification/submissions/109997).
 
-Below we describe how our scripts, notebooks and python files are placed. The file `run.py` will output our best submission.
 You'll need to install all the requirements in `requirements.txt`using `pip install -r requirements.txt`. Further informations about the different libraries we used can be found in Libraries used.txt
+This best submission can be reproduced using `python3 run.py -f <input.txt> -o <output.csv>` with input.txt and output.csv both given in relative paths. The shell prompt will ask if you want to use the baseline model **SVM** or the best model **BERT**. 
+
+Below we describe how our scripts, notebooks and python files are placed. The file `run.py` will output our best submission.
 In addition, there is further details in each notebook, as some require high computaion power and were run on Google Colab or Google Cloud Deepl Learning VMs.
 
 
