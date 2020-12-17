@@ -1,0 +1,27 @@
+libraries: 
+
+- NLTK
+- ekphrasis
+- transformers
+- keras
+- tensorflow
+- tensorflow_hub
+- numpy
+- sklearn
+- matplotlib
+- pickle
+- csv
+- elmo
+
+
+
+dictionary for spelling :
+
+dict1 :	http://people.eng.unimelb.edu.au/tbaldwin/etc/emnlp2012-lexnorm.tgz
+
+dict2: http://luululu.com/tweet/typo-corpus-r1.txt
+
+Glove embeddings:
+	http://nlp.stanford.edu/data/glove.6B.zip
+
+Slang dictionary created by us, by collecting multiple informations from the internet

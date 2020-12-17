@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk
+ekphrasis
+sklearn
+tensorflow
+tensorflow_hub
+keras
+transformers
+h5py
