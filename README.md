@@ -20,7 +20,7 @@ You'll need to install all the requirements in `requirements.txt`using `pip inst
 In addition, there is further details in each notebook, as some require high computaion power and were run on Google Colab or Google Cloud Deepl Learning VMs.
 
 
-All our data and code should be in a directory following this tree: (Data might be not in the zip file but can be downloaded [here](https://go.epfl.ch/rojlet_lML_data)  )
+All our data and code should be in a directory following this tree: (Data might be not in the github repo but can be downloaded [here](https://go.epfl.ch/rojlet_lML_data)  )
 
 
 ---------
