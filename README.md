@@ -20,7 +20,7 @@ You'll need to install all the requirements in `requirements.txt`using `pip inst
 The best submission can be reproduced using `python3 run.py -f <input.txt> -o <output.csv>` with input.txt and output.csv both given in relative paths. The shell prompt will ask if you want to use the baseline model **SVM** or the best model **BERT**. 
 
 Below we describe how our scripts, notebooks and python files are placed. The file `run.py` will output our best submission.
-In addition, there is further details in each notebook, as some require high computaion power and were run on Google Colab or Google Cloud Deepl Learning VMs.
+In addition, there is further details in each notebook, as some require high computaion power and were run on Google Colab or Google Cloud DeepLearning VMs.
 
 
 All our data and code should be in a directory following this tree: (Data might be not in the github repo but can be downloaded [here](https://go.epfl.ch/rojlet_lML_data)  )
